@@ -170,7 +170,7 @@ span{
         display: flex;
         flex-direction: column;
         border-radius: 8px;
-        
+        height: 70vh ;
 
 }
 
