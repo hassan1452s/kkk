@@ -58,7 +58,7 @@ Exam_test.innerHTML = `
   <header class="name_Exama_text" id="name_Exama">
       ${parameter.index} ${parameter.type} في العلوم الفيزيائية رقم
   </header>
-<iframe src="${pdfPath}" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/${pdfPath}/preview" frameborder="0"></iframe>
   <section class="download">
       <a href="" class="next_left"><img src="../../../../../img/next_left.png" alt=""></a>
       <a href="${pdfPath}" target="_blank" class="text" download>Download</a>
