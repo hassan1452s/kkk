@@ -55,9 +55,7 @@ let pdfPath = `${parameter.chapiter}/${parameter.type_ofEnglish}/Dz-hassan-physi
 
 
 Exam_test.innerHTML = `
-  <header class="name_Exama_text" id="name_Exama">
-      ${parameter.index} ${parameter.type} في العلوم الفيزيائية رقم
-  </header>
+ 
   
 <iframe src="${pdfPath}" frameborder="0"></iframe>
   <section class="download">
