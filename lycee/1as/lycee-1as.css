@@ -215,15 +215,25 @@ span{
 
 .parent
 {
-    width: 90%;
+    width: 100%;
 }
 .parent a div p 
 {
     font-size: 5vw;
+    padding: 8px ;
+}
+.parent a div
+{
+width: 90%;
+padding: 0;
+margin: 10px auto;
+
+
 }
 .img-modile 
 {
     width: 8%;
+    padding: 0 5px;
 }
 .hikma
 {
